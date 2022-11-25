@@ -538,7 +538,7 @@ section .location {
 }
 
 .level.beginner .bar::after {
-  background: #eb5f51;
+  background: #ffdf1f;
   width: 2.5em;
 }
 
